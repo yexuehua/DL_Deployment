@@ -16,6 +16,7 @@ Download [coco128](https://www.kaggle.com/ultralytics/coco128)
 
 Move the dataset to the following structure
 
+```bash
 |-- yolov5
 
 |    |-- ...
@@ -29,6 +30,9 @@ Move the dataset to the following structure
 |    |    |-- labels
 
 |    |    |-- ...
+```
+
+
 
 ## 3.Run the code
 
